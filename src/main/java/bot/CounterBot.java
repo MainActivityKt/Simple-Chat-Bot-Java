@@ -7,6 +7,7 @@ public class CounterBot extends SmartBot {
         for (int i = 0; i <= num; i++) {
             System.out.printf("%d!\n", i);
         }
+        System.out.println("Completed, have a nice day!");
     }
 
     public static void main(String[] args) {
