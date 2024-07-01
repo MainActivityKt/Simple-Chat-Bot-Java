@@ -43,3 +43,32 @@ Example
     Your age is {yourAge}; that's a good time to start programming!
 
 ## Stage 4/5:Teach your bot to count
+Now our bot can count to any number the user wants.
+P.S. she is getting smarter : )
+
+Run [CounterBot.java](src/main/java/bot/CounterBot.java) or [Main.java](src/main/java/org/) and input `4`.
+
+Example
+
+    Hello! My name is Aid.
+    I was created in 2023.
+    Please, remind me your name.
+    > Max
+    What a great name you have, Max!
+    Let me guess your age.
+    Enter remainders of dividing your age by 3, 5 and 7.
+    > 1
+    > 2
+    > 1
+    Your age is 22; that's a good time to start programming!
+    Now I will prove to you that I can count to any number you want.
+    > 5
+    0!
+    1!
+    2!
+    3!
+    4!
+    5!
+    Completed, have a nice day!
+
+
