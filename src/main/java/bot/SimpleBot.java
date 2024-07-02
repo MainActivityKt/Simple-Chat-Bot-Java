@@ -1,6 +1,6 @@
 package bot;
 
-class SimpleBot {
+public class SimpleBot {
     public static void greet(String botName, int creationYear) {
         System.out.printf("Hello! My name is %s\n", botName);
         System.out.printf("I was created in %s.\n", creationYear);

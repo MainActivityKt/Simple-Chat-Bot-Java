@@ -10,10 +10,14 @@ public class CounterBot extends SmartBot {
         System.out.println("Completed, have a nice day!");
     }
 
-    public static void main(String[] args) {
+    public static void run() {
         greet("Lindsey", 2024);
         remindNme();
         guessAge();
         performCount();
+    }
+
+    public static void main(String[] args) {
+        run();
     }
 }
