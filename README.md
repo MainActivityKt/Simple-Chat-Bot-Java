@@ -49,7 +49,7 @@ Example
     Enter remainders of dividing your age by 3, 5 and 7.
     Your age is {yourAge}; that's a good time to start programming!
 
-## Stage 4/5:Teach your bot to count
+## Stage 4/5: Teach your bot to count
 
 Now our bot can count to any number the user wants.
 P.S. she is getting smarter : )
@@ -79,7 +79,7 @@ Example
     5!
     Completed, have a nice day!
 
-## Stage 5/5:Play a simple quiz together
+## Stage 5/5: Play a simple quiz together
 
 In this final stage, the bot asks a programming question and checks whether the user provide the
 correct answer, or not.
